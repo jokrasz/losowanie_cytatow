@@ -1,0 +1,31 @@
+body {
+	background: lightblue;
+	color: white;
+	text-align: center;
+}
+button {
+	background: lightblue;
+	color: white;
+	border: 1px solid white;
+	margin: 0 auto;
+	padding: 10px 20px;
+	display: block;
+	height: 40px;
+	width: 250px;
+}
+.tweet {
+	background: lightblue;
+	color: white;
+	border:1px solid white;
+	width: 200px;
+	height: 20px;
+	margin: 20px auto;
+	padding: 10px 20px;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+}
+.fa {
+	background: lightblue;
+	color: white;
+}
